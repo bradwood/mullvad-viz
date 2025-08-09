@@ -1,0 +1,343 @@
+[1/81] Querying: Amsterdam
+  -> 52.3730796, 4.8924534 (Amsterdam, Noord-Holland, Nederland)
+[2/81] Querying: Ashburn, VA
+  -> No result for "Ashburn, VA" from Nominatim
+[3/81] Querying: Athens
+  -> 33.9597677, -83.376398 (Athens, Clarke County, Georgia, United States)
+[4/81] Querying: Atlanta, GA
+  -> 34.0823426, -84.1274586 (Gates at Old Atlanta, Forsyth County, Georgia, United States)
+[5/81] Querying: Auckland
+  -> -36.852095, 174.7631803 (Auckland, Waitematā, Auckland, 1010, New Zealand / Aotearoa)
+[6/81] Querying: Bangkok
+  -> 13.7524938, 100.4935089 (กรุงเทพมหานคร, ประเทศไทย)
+[7/81] Querying: Barcelona
+  -> 41.3825802, 2.177073 (Barcelona, Barcelonès, Barcelona, Catalunya, España)
+[8/81] Querying: Belgrade
+  -> 44.8178131, 20.4568974 (Београд, Град Београд, Централна Србија, Србија)
+[9/81] Querying: Berlin
+  -> 52.510885, 13.3989367 (Berlin, Deutschland)
+[10/81] Querying: Bogota
+  -> 4.6533815, -74.0836331 (Bogotá, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia)
+[11/81] Querying: Bordeaux
+  -> 44.841225, -0.5800364 (Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, France)
+[12/81] Querying: Boston, MA
+  -> No result for "Boston, MA" from Nominatim
+[13/81] Querying: Bratislava
+  -> 48.1516988, 17.1093063 (Bratislava, Bratislavský kraj, Slovensko)
+[14/81] Querying: Brisbane
+  -> -27.4689623, 153.0235009 (City of Brisbane, Queensland, Australia)
+[15/81] Querying: Brussels
+  -> 50.8465573, 4.351697 (Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, België / Belgique / Belgien)
+[16/81] Querying: Bucharest
+  -> 44.4361414, 26.1027202 (București, România)
+[17/81] Querying: Budapest
+  -> 47.4978789, 19.0402383 (Budapest, Közép-Magyarország, Magyarország)
+[18/81] Querying: Calgary
+  -> 51.0456064, -114.057541 (Calgary, Alberta, Canada)
+[19/81] Querying: Chicago, IL
+  -> No result for "Chicago, IL" from Nominatim
+[20/81] Querying: Copenhagen
+  -> 55.6867243, 12.5700724 (København, Københavns Kommune, Region Hovedstaden, 1357, Danmark)
+[21/81] Querying: Dallas, TX
+  -> No result for "Dallas, TX" from Nominatim
+[22/81] Querying: Denver, CO
+  -> 39.7392364, -104.984862 (Denver, Colorado, United States)
+[23/81] Querying: Detroit, MI
+  -> No result for "Detroit, MI" from Nominatim
+[24/81] Querying: Dublin
+  -> 53.3493795, -6.2605593 (Dublin, County Dublin, Leinster, Éire / Ireland)
+[25/81] Querying: Dusseldorf
+  -> 51.2254018, 6.7763137 (Düsseldorf, Nordrhein-Westfalen, Deutschland)
+[26/81] Querying: Fortaleza
+  -> -3.7304512, -38.5217989 (Fortaleza, Região Geográfica Imediata de Fortaleza, Região Geográfica Intermediária de Fortaleza, Ceará, Região Nordeste, Brasil)
+[27/81] Querying: Frankfurt
+  -> 50.1106444, 8.6820917 (Frankfurt am Main, Hessen, Deutschland)
+[28/81] Querying: Glasgow
+  -> 55.861155, -4.2501687 (Glasgow, Glasgow City, Alba / Scotland, G2 1AL, United Kingdom)
+[29/81] Querying: Gothenburg
+  -> 57.7072326, 11.9670171 (Göteborg, Göteborgs Stad, Västra Götalands län, 411 10, Sverige)
+[30/81] Querying: Helsinki
+  -> 60.1674881, 24.9427473 (Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland)
+[31/81] Querying: Hong Kong
+  -> 22.2793278, 114.1628131 (香港島 Hong Kong Island, 香港 Hong Kong, 中国)
+[32/81] Querying: Houston, TX
+  -> No result for "Houston, TX" from Nominatim
+[33/81] Querying: Istanbul
+  -> 41.006381, 28.9758715 (İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34122, Türkiye)
+[34/81] Querying: Jakarta
+  -> -6.1754049, 106.827168 (Daerah Khusus ibukota Jakarta, Jawa, Indonesia)
+[35/81] Querying: Johannesburg
+  -> -26.205, 28.049722 (Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa)
+[36/81] Querying: Kansas City, MO
+  -> No result for "Kansas City, MO" from Nominatim
+[37/81] Querying: Kuala Lumpur
+  -> 3.1516964, 101.6942371 (Kuala Lumpur, 50100, Malaysia)
+[38/81] Querying: Kyiv
+  -> 50.4500336, 30.5241361 (Київ, Україна)
+[39/81] Querying: Lagos
+  -> 6.4550575, 3.3941795 (Lagos, Lagos Island, Lagos, 100242, Nigeria)
+[40/81] Querying: Lima
+  -> -12.0621065, -77.0365256 (Lima, Lima Metropolitana, Lima, 15083, Perú)
+[41/81] Querying: Lisbon
+  -> 38.7077507, -9.1365919 (Lisboa, Portugal)
+[42/81] Querying: Ljubljana
+  -> 46.0500268, 14.5069289 (Ljubljana, Upravna Enota Ljubljana, Slovenija)
+[43/81] Querying: Los Angeles, CA
+  -> No result for "Los Angeles, CA" from Nominatim
+[44/81] Querying: Madrid
+  -> 40.4167047, -3.7035825 (Madrid, Comunidad de Madrid, España)
+[45/81] Querying: Malmö
+  -> 55.6052931, 13.0001566 (Malmö, Malmö kommun, Skåne län, Sverige)
+[46/81] Querying: Manchester
+  -> 53.4794892, -2.2451148 (Manchester, Greater Manchester, England, United Kingdom)
+[47/81] Querying: Manila
+  -> 14.5904492, 120.9803621 (Manila, Capital District, Metro Manila, Philippines)
+[48/81] Querying: Marseille
+  -> 43.2961743, 5.3699525 (Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, France)
+[49/81] Querying: McAllen, TX
+  -> No result for "McAllen, TX" from Nominatim
+[50/81] Querying: Miami, FL
+  -> No result for "Miami, FL" from Nominatim
+[51/81] Querying: Milan
+  -> 45.4641943, 9.1896346 (Milano, Lombardia, Italia)
+[52/81] Querying: New York, NY
+  -> 40.6378888, -74.1856077 (Port Liberty New York, Richmond County, City of New York, New York, United States)
+[53/81] Querying: Nicosia
+  -> 35.1746503, 33.3638783 (Λευκωσία, Μητροπολιτική Περιοχή Λευκωσίας - Lefkoşa Metropolitan Alanı, Δήμος Λευκωσίας, Επαρχία Λευκωσίας, Κύπρος, Κύπρος - Kıbrıs)
+[54/81] Querying: Osaka
+  -> 34.6937569, 135.5014539 (大阪市, 大阪府, 日本)
+[55/81] Querying: Oslo
+  -> 59.9133301, 10.7389701 (Oslo, Norge)
+[56/81] Querying: Palermo
+  -> 38.1112268, 13.3524434 (Palermo, Sicilia, Italia)
+[57/81] Querying: Paris
+  -> 48.8534951, 2.3483915 (Paris, Île-de-France, France métropolitaine, France)
+[58/81] Querying: Phoenix, AZ
+  -> No result for "Phoenix, AZ" from Nominatim
+[59/81] Querying: Prague
+  -> 50.0596288, 14.4464593 (Praha, obvod Praha 4, Hlavní město Praha, Praha, Česko)
+[60/81] Querying: Queretaro
+  -> 20.5922997, -100.3917424 (Santiago de Querétaro, Municipio de Querétaro, Querétaro, México)
+[61/81] Querying: Raleigh, NC
+  -> No result for "Raleigh, NC" from Nominatim
+[62/81] Querying: Salt Lake City, UT
+  -> No result for "Salt Lake City, UT" from Nominatim
+[63/81] Querying: San Jose, CA
+  -> No result for "San Jose, CA" from Nominatim
+[64/81] Querying: Santiago
+  -> 9.8694792, -83.7980749 (Santiago, Paraíso, Cartago, 30202, Costa Rica)
+[65/81] Querying: Sao Paulo
+  -> -23.5506507, -46.6333824 (São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, Brasil)
+[66/81] Querying: Seattle, WA
+  -> No result for "Seattle, WA" from Nominatim
+[67/81] Querying: Secaucus, NJ
+  -> No result for "Secaucus, NJ" from Nominatim
+[68/81] Querying: Singapore
+  -> 1.2899175, 103.8519072 (Singapore)
+[69/81] Querying: Sofia
+  -> 42.6977028, 23.3217359 (София, Средец, Столична, София-град, България)
+[70/81] Querying: Stavanger
+  -> 58.9699675, 5.7318101 (Stavanger, Rogaland, Norge)
+[71/81] Querying: Stockholm
+  -> 59.3251172, 18.0710935 (Stockholm, Stockholms kommun, Stockholms län, 111 29, Sverige)
+[72/81] Querying: Tallinn
+  -> 59.4372155, 24.7453688 (Tallinn, Harju maakond, Eesti)
+[73/81] Querying: Tel Aviv
+  -> 32.0852997, 34.7818064 (תל־אביב–יפו, נפת תל אביב, מחוז תל אביב, ישראל)
+[74/81] Querying: Tirana
+  -> 41.3281482, 19.8184435 (Tiranë, Bashkia Tiranë, Qarku i Tiranës, Shqipëria Qendrore, 1001-1028, Shqipëria)
+[75/81] Querying: Tokyo
+  -> 35.6768601, 139.7638947 (東京都, 日本)
+[76/81] Querying: Valencia
+  -> 39.4697065, -0.3763353 (València, Comarca de València, València / Valencia, Comunitat Valenciana, España)
+[77/81] Querying: Vienna
+  -> 48.2083537, 16.3725042 (Wien, Österreich)
+[78/81] Querying: Warsaw
+  -> 52.2319581, 21.0067249 (Warszawa, województwo mazowieckie, Polska)
+[79/81] Querying: Washington DC
+  -> 38.8950368, -77.0365427 (Washington, District of Columbia, United States)
+[80/81] Querying: Zagreb
+  -> 45.8130967, 15.9772795 (Grad Zagreb, Hrvatska)
+[81/81] Querying: Zurich
+  -> 47.3744489, 8.5410422 (Zürich, Bezirk Zürich, Zürich, Schweiz/Suisse/Svizzera/Svizra)
+Done. Updated /home/bqw/Documents/Cline/mullvad-viz/data/city-coordinates.json
+2025-08-09T15:54:44.070Z Will query Nominatim for 89 cities (wait 3000ms between requests).
+2025-08-09T15:54:44.072Z [1/89] Querying: Adelaide
+2025-08-09T15:54:44.280Z   -> -34.9281805, 138.5999312 (via "Adelaide")
+2025-08-09T15:54:47.282Z [2/89] Querying: Amsterdam
+2025-08-09T15:54:47.408Z   -> 52.3730796, 4.8924534 (via "Amsterdam")
+2025-08-09T15:54:50.414Z [3/89] Querying: Ashburn, VA
+2025-08-09T15:54:50.710Z   -> 39.029784, -77.4744148 (via "Ashburn, VA")
+2025-08-09T15:54:53.712Z [4/89] Querying: Athens
+2025-08-09T15:54:53.884Z   -> 33.9597677, -83.376398 (via "Athens")
+2025-08-09T15:54:56.887Z [5/89] Querying: Atlanta, GA
+2025-08-09T15:54:57.113Z   -> 33.7544657, -84.3898151 (via "Atlanta, GA")
+2025-08-09T15:55:00.116Z [6/89] Querying: Auckland
+2025-08-09T15:55:00.190Z   -> -36.852095, 174.7631803 (via "Auckland")
+2025-08-09T15:55:03.194Z [7/89] Querying: Bangkok
+2025-08-09T15:55:03.294Z   -> 13.7524938, 100.4935089 (via "Bangkok")
+2025-08-09T15:55:06.295Z [8/89] Querying: Barcelona
+2025-08-09T15:55:06.480Z   -> 41.3825802, 2.177073 (via "Barcelona")
+2025-08-09T15:55:09.482Z [9/89] Querying: Belgrade
+2025-08-09T15:55:09.565Z   -> 44.8178131, 20.4568974 (via "Belgrade")
+2025-08-09T15:55:12.569Z [10/89] Querying: Berlin
+2025-08-09T15:55:12.932Z   -> 52.510885, 13.3989367 (via "Berlin")
+2025-08-09T15:55:15.938Z [11/89] Querying: Bogota
+2025-08-09T15:55:16.037Z   -> 4.6533815, -74.0836331 (via "Bogota")
+2025-08-09T15:55:19.040Z [12/89] Querying: Bordeaux
+2025-08-09T15:55:19.121Z   -> 44.841225, -0.5800364 (via "Bordeaux")
+2025-08-09T15:55:22.124Z [13/89] Querying: Boston, MA
+2025-08-09T15:55:22.366Z   -> 42.3554334, -71.060511 (via "Boston, MA")
+2025-08-09T15:55:25.368Z [14/89] Querying: Bratislava
+2025-08-09T15:55:25.434Z   -> 48.1516988, 17.1093063 (via "Bratislava")
+2025-08-09T15:55:28.438Z [15/89] Querying: Brisbane
+2025-08-09T15:55:28.527Z   -> -27.4689623, 153.0235009 (via "Brisbane")
+2025-08-09T15:55:31.529Z [16/89] Querying: Brussels
+2025-08-09T15:55:31.590Z   -> 50.8465573, 4.351697 (via "Brussels")
+2025-08-09T15:55:34.593Z [17/89] Querying: Bucharest
+2025-08-09T15:55:34.651Z   -> 44.4361414, 26.1027202 (via "Bucharest")
+2025-08-09T15:55:37.654Z [18/89] Querying: Budapest
+2025-08-09T15:55:37.714Z   -> 47.4978789, 19.0402383 (via "Budapest")
+2025-08-09T15:55:40.718Z [19/89] Querying: Calgary
+2025-08-09T15:55:40.802Z   -> 51.0456064, -114.057541 (via "Calgary")
+2025-08-09T15:55:43.805Z [20/89] Querying: Chicago, IL
+2025-08-09T15:55:44.370Z   -> 41.8755616, -87.6244212 (via "Chicago, IL")
+2025-08-09T15:55:47.375Z [21/89] Querying: Copenhagen
+2025-08-09T15:55:47.457Z   -> 55.6867243, 12.5700724 (via "Copenhagen")
+2025-08-09T15:55:50.460Z [22/89] Querying: Dallas, TX
+2025-08-09T15:55:50.618Z   -> 32.7762719, -96.7968559 (via "Dallas, TX")
+2025-08-09T15:55:53.622Z [23/89] Querying: Denver, CO
+2025-08-09T15:55:53.799Z   -> 39.7392364, -104.984862 (via "Denver, CO")
+2025-08-09T15:55:56.802Z [24/89] Querying: Detroit, MI
+2025-08-09T15:55:57.020Z   -> 42.3315509, -83.0466403 (via "Detroit, MI")
+2025-08-09T15:56:00.022Z [25/89] Querying: Dublin
+2025-08-09T15:56:00.240Z   -> 53.3493795, -6.2605593 (via "Dublin")
+2025-08-09T15:56:03.245Z [26/89] Querying: Dusseldorf
+2025-08-09T15:56:03.337Z   -> 51.2254018, 6.7763137 (via "Dusseldorf")
+2025-08-09T15:56:06.341Z [27/89] Querying: Fortaleza
+2025-08-09T15:56:06.441Z   -> -3.7304512, -38.5217989 (via "Fortaleza")
+2025-08-09T15:56:09.445Z [28/89] Querying: Frankfurt
+2025-08-09T15:56:09.764Z   -> 50.1106444, 8.6820917 (via "Frankfurt")
+2025-08-09T15:56:12.768Z [29/89] Querying: Glasgow
+2025-08-09T15:56:12.876Z   -> 55.861155, -4.2501687 (via "Glasgow")
+2025-08-09T15:56:15.879Z [30/89] Querying: Gothenburg
+2025-08-09T15:56:15.923Z   -> 57.7072326, 11.9670171 (via "Gothenburg")
+2025-08-09T15:56:18.925Z [31/89] Querying: Helsinki
+2025-08-09T15:56:18.992Z   -> 60.1674881, 24.9427473 (via "Helsinki")
+2025-08-09T15:56:21.995Z [32/89] Querying: Hong Kong
+2025-08-09T15:56:22.389Z   -> 22.2793278, 114.1628131 (via "Hong Kong")
+2025-08-09T15:56:25.392Z [33/89] Querying: Houston, TX
+2025-08-09T15:56:25.846Z   -> 29.7589382, -95.3676974 (via "Houston, TX")
+2025-08-09T15:56:28.851Z [34/89] Querying: Istanbul
+2025-08-09T15:56:29.015Z   -> 41.006381, 28.9758715 (via "Istanbul")
+2025-08-09T15:56:32.018Z [35/89] Querying: Jakarta
+2025-08-09T15:56:32.112Z   -> -6.1754049, 106.827168 (via "Jakarta")
+2025-08-09T15:56:35.116Z [36/89] Querying: Johannesburg
+2025-08-09T15:56:35.206Z   -> -26.205, 28.049722 (via "Johannesburg")
+2025-08-09T15:56:38.208Z [37/89] Querying: Kansas City, MO
+2025-08-09T15:56:38.437Z   -> 39.100105, -94.5781416 (via "Kansas City, MO")
+2025-08-09T15:56:41.442Z [38/89] Querying: Kuala Lumpur
+2025-08-09T15:56:41.513Z   -> 3.1516964, 101.6942371 (via "Kuala Lumpur")
+2025-08-09T15:56:44.515Z [39/89] Querying: Kyiv
+2025-08-09T15:56:44.570Z   -> 50.4500336, 30.5241361 (via "Kyiv")
+2025-08-09T15:56:47.572Z [40/89] Querying: Lagos
+2025-08-09T15:56:47.772Z   -> 6.4550575, 3.3941795 (via "Lagos")
+2025-08-09T15:56:50.775Z [41/89] Querying: Lima
+2025-08-09T15:56:51.457Z   -> -12.0621065, -77.0365256 (via "Lima")
+2025-08-09T15:56:54.460Z [42/89] Querying: Lisbon
+2025-08-09T15:56:54.576Z   -> 38.7077507, -9.1365919 (via "Lisbon")
+2025-08-09T15:56:57.582Z [43/89] Querying: Ljubljana
+2025-08-09T15:56:57.640Z   -> 46.0500268, 14.5069289 (via "Ljubljana")
+2025-08-09T15:57:00.642Z [44/89] Querying: London
+2025-08-09T15:57:01.067Z   -> 51.5074456, -0.1277653 (via "London")
+2025-08-09T15:57:04.072Z [45/89] Querying: Los Angeles, CA
+2025-08-09T15:57:04.586Z   -> 34.0536909, -118.242766 (via "Los Angeles, CA")
+2025-08-09T15:57:07.588Z [46/89] Querying: Madrid
+2025-08-09T15:57:07.792Z   -> 40.4167047, -3.7035825 (via "Madrid")
+2025-08-09T15:57:10.793Z [47/89] Querying: Malmö
+2025-08-09T15:57:10.846Z   -> 55.6052931, 13.0001566 (via "Malmö")
+2025-08-09T15:57:13.850Z [48/89] Querying: Manchester
+2025-08-09T15:57:14.072Z   -> 53.4794892, -2.2451148 (via "Manchester")
+2025-08-09T15:57:17.075Z [49/89] Querying: Manila
+2025-08-09T15:57:17.349Z   -> 14.5904492, 120.9803621 (via "Manila")
+2025-08-09T15:57:20.352Z [50/89] Querying: Marseille
+2025-08-09T15:57:20.455Z   -> 43.2961743, 5.3699525 (via "Marseille")
+2025-08-09T15:57:23.458Z [51/89] Querying: McAllen, TX
+2025-08-09T15:57:23.569Z   -> 26.204114, -98.2300605 (via "McAllen, TX")
+2025-08-09T15:57:26.572Z [52/89] Querying: Melbourne
+2025-08-09T15:57:26.680Z   -> -37.8142454, 144.9631732 (via "Melbourne")
+2025-08-09T15:57:29.682Z [53/89] Querying: Miami, FL
+2025-08-09T15:57:29.944Z   -> 25.7741728, -80.19362 (via "Miami, FL")
+2025-08-09T15:57:32.945Z [54/89] Querying: Milan
+2025-08-09T15:57:33.060Z   -> 45.4641943, 9.1896346 (via "Milan")
+2025-08-09T15:57:36.062Z [55/89] Querying: Montreal
+2025-08-09T15:57:36.194Z   -> 45.5031824, -73.5698065 (via "Montreal")
+2025-08-09T15:57:39.195Z [56/89] Querying: New York, NY
+2025-08-09T15:57:39.420Z   -> 40.7127281, -74.0060152 (via "New York, NY")
+2025-08-09T15:57:42.423Z [57/89] Querying: Nicosia
+2025-08-09T15:57:43.052Z   -> 35.1746503, 33.3638783 (via "Nicosia")
+2025-08-09T15:57:46.057Z [58/89] Querying: Osaka
+2025-08-09T15:57:46.176Z   -> 34.6937569, 135.5014539 (via "Osaka")
+2025-08-09T15:57:49.181Z [59/89] Querying: Oslo
+2025-08-09T15:57:49.249Z   -> 59.9133301, 10.7389701 (via "Oslo")
+2025-08-09T15:57:52.253Z [60/89] Querying: Palermo
+2025-08-09T15:57:52.389Z   -> 38.1112268, 13.3524434 (via "Palermo")
+2025-08-09T15:57:55.392Z [61/89] Querying: Paris
+2025-08-09T15:57:55.759Z   -> 48.8534951, 2.3483915 (via "Paris")
+2025-08-09T15:57:58.760Z [62/89] Querying: Perth
+2025-08-09T15:57:58.856Z   -> -31.9558967, 115.8605784 (via "Perth")
+2025-08-09T15:58:01.858Z [63/89] Querying: Phoenix, AZ
+2025-08-09T15:58:03.225Z   -> 33.4484367, -112.074141 (via "Phoenix, AZ")
+2025-08-09T15:58:06.229Z [64/89] Querying: Prague
+2025-08-09T15:58:06.280Z   -> 50.0596288, 14.4464593 (via "Prague")
+2025-08-09T15:58:09.282Z [65/89] Querying: Queretaro
+2025-08-09T15:58:09.605Z   -> 20.5922997, -100.3917424 (via "Queretaro")
+2025-08-09T15:58:12.608Z [66/89] Querying: Raleigh, NC
+2025-08-09T15:58:12.850Z   -> 35.7803977, -78.6390989 (via "Raleigh, NC")
+2025-08-09T15:58:15.853Z [67/89] Querying: Salt Lake City, UT
+2025-08-09T15:58:17.254Z   -> 40.7596198, -111.886797 (via "Salt Lake City, UT")
+2025-08-09T15:58:20.258Z [68/89] Querying: San Jose, CA
+2025-08-09T15:58:20.530Z   -> 37.3361663, -121.890591 (via "San Jose, CA")
+2025-08-09T15:58:23.533Z [69/89] Querying: Santiago
+2025-08-09T15:58:24.011Z   -> 9.8694792, -83.7980749 (via "Santiago")
+2025-08-09T15:58:27.016Z [70/89] Querying: Sao Paulo
+2025-08-09T15:58:27.433Z   -> -23.5506507, -46.6333824 (via "Sao Paulo")
+2025-08-09T15:58:30.437Z [71/89] Querying: Seattle, WA
+2025-08-09T15:58:30.550Z   -> 47.6038321, -122.330062 (via "Seattle, WA")
+2025-08-09T15:58:33.552Z [72/89] Querying: Secaucus, NJ
+2025-08-09T15:58:33.666Z   -> 40.7899291, -74.0566735 (via "Secaucus, NJ")
+2025-08-09T15:58:36.669Z [73/89] Querying: Singapore
+2025-08-09T15:58:36.725Z   -> 1.2899175, 103.8519072 (via "Singapore")
+2025-08-09T15:58:39.728Z [74/89] Querying: Sofia
+2025-08-09T15:58:39.987Z   -> 42.6977028, 23.3217359 (via "Sofia")
+2025-08-09T15:58:42.992Z [75/89] Querying: Stavanger
+2025-08-09T15:58:43.077Z   -> 58.9699675, 5.7318101 (via "Stavanger")
+2025-08-09T15:58:46.078Z [76/89] Querying: Stockholm
+2025-08-09T15:58:46.140Z   -> 59.3251172, 18.0710935 (via "Stockholm")
+2025-08-09T15:58:49.143Z [77/89] Querying: Sydney
+2025-08-09T15:58:49.748Z   -> -33.8698439, 151.2082848 (via "Sydney")
+2025-08-09T15:58:52.752Z [78/89] Querying: Tallinn
+2025-08-09T15:58:52.815Z   -> 59.4372155, 24.7453688 (via "Tallinn")
+2025-08-09T15:58:55.818Z [79/89] Querying: Tel Aviv
+2025-08-09T15:58:55.874Z   -> 32.0852997, 34.7818064 (via "Tel Aviv")
+2025-08-09T15:58:58.878Z [80/89] Querying: Tirana
+2025-08-09T15:58:58.964Z   -> 41.3281482, 19.8184435 (via "Tirana")
+2025-08-09T15:59:01.968Z [81/89] Querying: Tokyo
+2025-08-09T15:59:02.087Z   -> 35.6768601, 139.7638947 (via "Tokyo")
+2025-08-09T15:59:05.090Z [82/89] Querying: Toronto
+2025-08-09T15:59:05.173Z   -> 43.6534817, -79.3839347 (via "Toronto")
+2025-08-09T15:59:08.175Z [83/89] Querying: Valencia
+2025-08-09T15:59:08.454Z   -> 39.4697065, -0.3763353 (via "Valencia")
+2025-08-09T15:59:11.458Z [84/89] Querying: Vancouver
+2025-08-09T15:59:11.530Z   -> 49.2608724, -123.113952 (via "Vancouver")
+2025-08-09T15:59:14.532Z [85/89] Querying: Vienna
+2025-08-09T15:59:14.861Z   -> 48.2083537, 16.3725042 (via "Vienna")
+2025-08-09T15:59:17.866Z [86/89] Querying: Warsaw
+2025-08-09T15:59:17.930Z   -> 52.2319581, 21.0067249 (via "Warsaw")
+2025-08-09T15:59:20.933Z [87/89] Querying: Washington DC
+2025-08-09T15:59:21.021Z   -> 38.8950368, -77.0365427 (via "Washington DC")
+2025-08-09T15:59:24.025Z [88/89] Querying: Zagreb
+2025-08-09T15:59:24.077Z   -> 45.8130967, 15.9772795 (via "Zagreb")
+2025-08-09T15:59:27.081Z [89/89] Querying: Zurich
+2025-08-09T15:59:27.172Z   -> 47.3744489, 8.5410422 (via "Zurich")
+2025-08-09T15:59:27.174Z Done. Updated /home/bqw/Documents/Cline/mullvad-viz/data/city-coordinates.json

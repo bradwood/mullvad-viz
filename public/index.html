@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mullvad Viz</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topnav">
+    <nav>
+      <a href="#/map" id="nav-map" class="nav-link active">Map</a>
+      <a href="#/ownership" id="nav-ownership" class="nav-link">Ownership</a>
+      <a href="#/protocols" id="nav-protocols" class="nav-link">Protocols</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section id="view-map" class="view" aria-label="world map view">
+      <div id="map" class="map-container"></div>
+    </section>
+
+    <section id="view-ownership" class="view" aria-label="ownership view" style="display:none;">
+      <div class="chart-wrap">
+        <canvas id="ownershipChart" height="300"></canvas>
+      </div>
+    </section>
+
+    <section id="view-protocols" class="view" aria-label="protocols view" style="display:none;">
+      <div class="chart-wrap">
+        <canvas id="protocolChart" height="300"></canvas>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

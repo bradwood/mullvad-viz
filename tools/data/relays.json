@@ -1,0 +1,9444 @@
+[
+  {
+    "id": "al-tia-wg-001",
+    "country": "Albania",
+    "countryCode": "AL",
+    "city": "Tirana",
+    "lat": 41.32795,
+    "lon": -19.81902,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "al-tia-wg-002",
+    "country": "Albania",
+    "countryCode": "AL",
+    "city": "Tirana",
+    "lat": 41.32795,
+    "lon": -19.81902,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "at-vie-ovpn-001",
+    "country": "Austria",
+    "countryCode": "AT",
+    "city": "Vienna",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "at-vie-ovpn-002",
+    "country": "Austria",
+    "countryCode": "AT",
+    "city": "Vienna",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "at-vie-wg-001",
+    "country": "Austria",
+    "countryCode": "AT",
+    "city": "Vienna",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "at-vie-wg-002",
+    "country": "Austria",
+    "countryCode": "AT",
+    "city": "Vienna",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "at-vie-wg-003",
+    "country": "Austria",
+    "countryCode": "AT",
+    "city": "Vienna",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "at-vie-wg-101",
+    "country": "Austria",
+    "countryCode": "AT",
+    "city": "Vienna",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "at-vie-wg-102",
+    "country": "Austria",
+    "countryCode": "AT",
+    "city": "Vienna",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-adl-ovpn-301",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Adelaide",
+    "lat": -34.9285,
+    "lon": 138.6007,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-adl-ovpn-302",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Adelaide",
+    "lat": -34.9285,
+    "lon": 138.6007,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-adl-wg-301",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Adelaide",
+    "lat": -34.9285,
+    "lon": 138.6007,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-adl-wg-302",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Adelaide",
+    "lat": -34.9285,
+    "lon": 138.6007,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-bne-ovpn-301",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Brisbane",
+    "lat": -27.4689623,
+    "lon": 153.0235009,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-bne-ovpn-302",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Brisbane",
+    "lat": -27.4689623,
+    "lon": 153.0235009,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-bne-wg-301",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Brisbane",
+    "lat": -27.4689623,
+    "lon": 153.0235009,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-bne-wg-302",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Brisbane",
+    "lat": -27.4689623,
+    "lon": 153.0235009,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-mel-ovpn-301",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "lat": -37.8136,
+    "lon": 144.9631,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-mel-ovpn-302",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "lat": -37.8136,
+    "lon": 144.9631,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-mel-wg-301",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "lat": -37.8136,
+    "lon": 144.9631,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-mel-wg-302",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "lat": -37.8136,
+    "lon": 144.9631,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-per-ovpn-301",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Perth",
+    "lat": -31.9505,
+    "lon": 115.8605,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-per-ovpn-302",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Perth",
+    "lat": -31.9505,
+    "lon": 115.8605,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-per-wg-301",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Perth",
+    "lat": -31.9505,
+    "lon": 115.8605,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-per-wg-302",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Perth",
+    "lat": -31.9505,
+    "lon": 115.8605,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-syd-br-001",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "au-syd-ovpn-001",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-syd-ovpn-002",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-syd-wg-001",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-syd-wg-002",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-syd-wg-003",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-syd-wg-101",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-syd-wg-102",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-syd-wg-103",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "au-syd-wg-104",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "be-bru-ovpn-101",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "city": "Brussels",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "be-bru-ovpn-102",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "city": "Brussels",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "be-bru-wg-101",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "city": "Brussels",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "be-bru-wg-102",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "city": "Brussels",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "be-bru-wg-103",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "city": "Brussels",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "bg-sof-ovpn-001",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "city": "Sofia",
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "bg-sof-ovpn-002",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "city": "Sofia",
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "bg-sof-wg-001",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "city": "Sofia",
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "bg-sof-wg-002",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "city": "Sofia",
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "br-for-wg-001",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Fortaleza",
+    "lat": -3.7304512,
+    "lon": -38.5217989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "br-for-wg-002",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Fortaleza",
+    "lat": -3.7304512,
+    "lon": -38.5217989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "br-sao-ovpn-001",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Sao Paulo",
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "br-sao-wg-001",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Sao Paulo",
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "br-sao-wg-201",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Sao Paulo",
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "br-sao-wg-202",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Sao Paulo",
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "br-sao-wg-302",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Sao Paulo",
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "br-sao-wg-303",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Sao Paulo",
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "br-sao-wg-304",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Sao Paulo",
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-mtr-br-001",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "ca-mtr-ovpn-001",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-mtr-ovpn-002",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-mtr-wg-001",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-mtr-wg-002",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-mtr-wg-003",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-mtr-wg-004",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-mtr-wg-201",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-mtr-wg-202",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-br-101",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "ca-tor-ovpn-001",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-ovpn-002",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-ovpn-101",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "ca-tor-ovpn-102",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "ca-tor-wg-001",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-002",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-101",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-102",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-103",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-104",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-105",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-106",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-107",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-201",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-202",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-203",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-204",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-205",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-206",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-tor-wg-207",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-van-ovpn-201",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-van-ovpn-202",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-van-wg-201",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-van-wg-202",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-van-wg-301",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-van-wg-302",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-yyc-wg-201",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Calgary",
+    "lat": 51.037,
+    "lon": -114.0583,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ca-yyc-wg-202",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Calgary",
+    "lat": 51.037,
+    "lon": -114.0583,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-br-001",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-ovpn-001",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-ovpn-002",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-ovpn-003",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-ovpn-201",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-ovpn-202",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-ovpn-501",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-ovpn-502",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-001",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-002",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-003",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-004",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-005",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-006",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-201",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-202",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-401",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-402",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-403",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-404",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-501",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-502",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-503",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-504",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-505",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-506",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ch-zrh-wg-507",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "lat": 47.3744489,
+    "lon": 8.5410422,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "cl-scl-wg-001",
+    "country": "Chile",
+    "countryCode": "CL",
+    "city": "Santiago",
+    "lat": -33.4489,
+    "lon": -70.6693,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "cl-scl-wg-002",
+    "country": "Chile",
+    "countryCode": "CL",
+    "city": "Santiago",
+    "lat": -33.4489,
+    "lon": -70.6693,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "co-bog-wg-001",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "city": "Bogota",
+    "lat": 4.6533815,
+    "lon": -74.0836331,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "co-bog-wg-002",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "city": "Bogota",
+    "lat": 4.6533815,
+    "lon": -74.0836331,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "cy-nic-wg-001",
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "city": "Nicosia",
+    "lat": 35.1746503,
+    "lon": 33.3638783,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "cy-nic-wg-002",
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "city": "Nicosia",
+    "lat": 35.1746503,
+    "lon": 33.3638783,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "cz-prg-br-101",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "city": "Prague",
+    "lat": 50.0596288,
+    "lon": 14.4464593,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "cz-prg-ovpn-101",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "city": "Prague",
+    "lat": 50.0596288,
+    "lon": 14.4464593,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "cz-prg-ovpn-102",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "city": "Prague",
+    "lat": 50.0596288,
+    "lon": 14.4464593,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "cz-prg-wg-101",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "city": "Prague",
+    "lat": 50.0596288,
+    "lon": 14.4464593,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "cz-prg-wg-102",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "city": "Prague",
+    "lat": 50.0596288,
+    "lon": 14.4464593,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "cz-prg-wg-201",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "city": "Prague",
+    "lat": 50.0596288,
+    "lon": 14.4464593,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "cz-prg-wg-202",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "city": "Prague",
+    "lat": 50.0596288,
+    "lon": 14.4464593,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-ber-ovpn-001",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-ber-ovpn-002",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "de-ber-wg-001",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-ber-wg-002",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-ber-wg-003",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-ber-wg-004",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-ber-wg-005",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-ber-wg-006",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-ber-wg-007",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-ber-wg-008",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "lat": 52.510885,
+    "lon": 13.3989367,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-dus-wg-001",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Dusseldorf",
+    "lat": 51.2254018,
+    "lon": 6.7763137,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-dus-wg-002",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Dusseldorf",
+    "lat": 51.2254018,
+    "lon": 6.7763137,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-dus-wg-003",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Dusseldorf",
+    "lat": 51.2254018,
+    "lon": 6.7763137,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-br-001",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": false
+  },
+  {
+    "id": "de-fra-ovpn-001",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-ovpn-002",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-ovpn-003",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-ovpn-004",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-ovpn-005",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "de-fra-ovpn-006",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "de-fra-ovpn-101",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-ovpn-102",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-001",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-002",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-003",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-004",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-005",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-006",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-007",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-008",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "de-fra-wg-009",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-101",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-102",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-103",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-104",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-105",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-106",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-301",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-302",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-303",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-304",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-401",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-402",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "de-fra-wg-403",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt",
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "dk-cph-ovpn-001",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "dk-cph-ovpn-002",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "dk-cph-ovpn-401",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "dk-cph-ovpn-402",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "dk-cph-wg-001",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "dk-cph-wg-002",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "dk-cph-wg-401",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "dk-cph-wg-402",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ee-tll-wg-001",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "city": "Tallinn",
+    "lat": 59.4372155,
+    "lon": 24.7453688,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ee-tll-wg-002",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "city": "Tallinn",
+    "lat": 59.4372155,
+    "lon": 24.7453688,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ee-tll-wg-003",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "city": "Tallinn",
+    "lat": 59.4372155,
+    "lon": 24.7453688,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-bcn-wg-001",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Barcelona",
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-bcn-wg-002",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Barcelona",
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-bcn-wg-101",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Barcelona",
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-bcn-wg-102",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Barcelona",
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-mad-ovpn-201",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Madrid",
+    "lat": 40.4167047,
+    "lon": -3.7035825,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-mad-ovpn-202",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Madrid",
+    "lat": 40.4167047,
+    "lon": -3.7035825,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-mad-wg-101",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Madrid",
+    "lat": 40.4167047,
+    "lon": -3.7035825,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-mad-wg-102",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Madrid",
+    "lat": 40.4167047,
+    "lon": -3.7035825,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-mad-wg-201",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Madrid",
+    "lat": 40.4167047,
+    "lon": -3.7035825,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-mad-wg-202",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Madrid",
+    "lat": 40.4167047,
+    "lon": -3.7035825,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-vlc-wg-001",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Valencia",
+    "lat": 39.4697065,
+    "lon": -0.3763353,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "es-vlc-wg-002",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Valencia",
+    "lat": 39.4697065,
+    "lon": -0.3763353,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-br-101",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "fi-hel-ovpn-001",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-ovpn-002",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-ovpn-003",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-ovpn-004",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-ovpn-005",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-ovpn-006",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-ovpn-007",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-ovpn-101",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-ovpn-102",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-wg-001",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-wg-002",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-wg-003",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-wg-101",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-wg-102",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-wg-103",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fi-hel-wg-104",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-bod-wg-001",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Bordeaux",
+    "lat": 44.841225,
+    "lon": -0.5800364,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-bod-wg-002",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Bordeaux",
+    "lat": 44.841225,
+    "lon": -0.5800364,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-mrs-wg-001",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Marseille",
+    "lat": 43.2961743,
+    "lon": 5.3699525,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-mrs-wg-002",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Marseille",
+    "lat": 43.2961743,
+    "lon": 5.3699525,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-br-001",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": false
+  },
+  {
+    "id": "fr-par-ovpn-001",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-ovpn-002",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-ovpn-101",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-ovpn-102",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-001",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-002",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-003",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-004",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-005",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-006",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-007",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-101",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-102",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-301",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "fr-par-wg-302",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-glw-wg-001",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Glasgow",
+    "lat": 55.861155,
+    "lon": -4.2501687,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-glw-wg-002",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Glasgow",
+    "lat": 55.861155,
+    "lon": -4.2501687,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-br-001",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "gb-lon-ovpn-001",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-ovpn-002",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-ovpn-003",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-ovpn-301",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-ovpn-302",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-001",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-002",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "gb-lon-wg-003",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-004",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-005",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-006",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-007",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-008",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-201",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-202",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-203",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-204",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-301",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-302",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-lon-wg-304",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-br-001",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-ovpn-001",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-ovpn-002",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-ovpn-003",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-ovpn-004",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "gb-mnc-wg-002",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-wg-003",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-wg-004",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-wg-005",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-wg-006",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-wg-007",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-wg-008",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "gb-mnc-wg-201",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gb-mnc-wg-202",
+    "country": "UK",
+    "countryCode": "GB",
+    "city": "Manchester",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gr-ath-ovpn-101",
+    "country": "Greece",
+    "countryCode": "GR",
+    "city": "Athens",
+    "lat": 33.9597677,
+    "lon": -83.376398,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gr-ath-ovpn-102",
+    "country": "Greece",
+    "countryCode": "GR",
+    "city": "Athens",
+    "lat": 33.9597677,
+    "lon": -83.376398,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "gr-ath-wg-101",
+    "country": "Greece",
+    "countryCode": "GR",
+    "city": "Athens",
+    "lat": 33.9597677,
+    "lon": -83.376398,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "gr-ath-wg-102",
+    "country": "Greece",
+    "countryCode": "GR",
+    "city": "Athens",
+    "lat": 33.9597677,
+    "lon": -83.376398,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "hk-hkg-br-201",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "lat": 22.2793278,
+    "lon": 114.1628131,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": false
+  },
+  {
+    "id": "hk-hkg-ovpn-201",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "lat": 22.2793278,
+    "lon": 114.1628131,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "hk-hkg-ovpn-202",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "lat": 22.2793278,
+    "lon": 114.1628131,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "hk-hkg-ovpn-301",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "lat": 22.2793278,
+    "lon": 114.1628131,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "hk-hkg-ovpn-302",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "lat": 22.2793278,
+    "lon": 114.1628131,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "hk-hkg-wg-201",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "lat": 22.2793278,
+    "lon": 114.1628131,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "hk-hkg-wg-202",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "lat": 22.2793278,
+    "lon": 114.1628131,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "hk-hkg-wg-301",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "lat": 22.2793278,
+    "lon": 114.1628131,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "hk-hkg-wg-302",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "lat": 22.2793278,
+    "lon": 114.1628131,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "hr-zag-wg-001",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "city": "Zagreb",
+    "lat": 45.8130967,
+    "lon": 15.9772795,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "hr-zag-wg-002",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "city": "Zagreb",
+    "lat": 45.8130967,
+    "lon": 15.9772795,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "hu-bud-ovpn-101",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "hu-bud-ovpn-102",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "hu-bud-wg-101",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "hu-bud-wg-102",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "hu-bud-wg-201",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "hu-bud-wg-202",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "id-jpu-wg-001",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "city": "Jakarta",
+    "lat": -6.1754049,
+    "lon": 106.827168,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "id-jpu-wg-002",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "city": "Jakarta",
+    "lat": -6.1754049,
+    "lon": 106.827168,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ie-dub-ovpn-101",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "city": "Dublin",
+    "lat": 53.3493795,
+    "lon": -6.2605593,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ie-dub-ovpn-102",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "city": "Dublin",
+    "lat": 53.3493795,
+    "lon": -6.2605593,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ie-dub-wg-101",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "city": "Dublin",
+    "lat": 53.3493795,
+    "lon": -6.2605593,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ie-dub-wg-102",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "city": "Dublin",
+    "lat": 53.3493795,
+    "lon": -6.2605593,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "il-tlv-wg-101",
+    "country": "Israel",
+    "countryCode": "IL",
+    "city": "Tel Aviv",
+    "lat": 32.0852997,
+    "lon": 34.7818064,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "il-tlv-wg-102",
+    "country": "Israel",
+    "countryCode": "IL",
+    "city": "Tel Aviv",
+    "lat": 32.0852997,
+    "lon": 34.7818064,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "il-tlv-wg-103",
+    "country": "Israel",
+    "countryCode": "IL",
+    "city": "Tel Aviv",
+    "lat": 32.0852997,
+    "lon": 34.7818064,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-mil-ovpn-201",
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Milan",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-mil-ovpn-202",
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Milan",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-mil-wg-001",
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Milan",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-mil-wg-002",
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Milan",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-mil-wg-003",
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Milan",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-mil-wg-201",
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Milan",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-mil-wg-202",
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Milan",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-pmo-wg-001",
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Palermo",
+    "lat": 38.1112268,
+    "lon": 13.3524434,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-pmo-wg-002",
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Palermo",
+    "lat": 38.1112268,
+    "lon": 13.3524434,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-osa-wg-001",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Osaka",
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "jp-osa-wg-002",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Osaka",
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-osa-wg-003",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Osaka",
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-osa-wg-004",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Osaka",
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-tyo-br-201",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Tokyo",
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "jp-tyo-ovpn-201",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Tokyo",
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-tyo-ovpn-202",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Tokyo",
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-tyo-wg-001",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Tokyo",
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-tyo-wg-002",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Tokyo",
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-tyo-wg-201",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Tokyo",
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-tyo-wg-202",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Tokyo",
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "jp-tyo-wg-203",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Tokyo",
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "mx-qro-wg-001",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Queretaro",
+    "lat": 20.5922997,
+    "lon": -100.3917424,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "mx-qro-wg-002",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Queretaro",
+    "lat": 20.5922997,
+    "lon": -100.3917424,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "mx-qro-wg-003",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Queretaro",
+    "lat": 20.5922997,
+    "lon": -100.3917424,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "mx-qro-wg-004",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Queretaro",
+    "lat": 20.5922997,
+    "lon": -100.3917424,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "my-kul-wg-001",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "city": "Kuala Lumpur",
+    "lat": 3.1516964,
+    "lon": 101.6942371,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "my-kul-wg-002",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "city": "Kuala Lumpur",
+    "lat": 3.1516964,
+    "lon": 101.6942371,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ng-los-wg-001",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "city": "Lagos",
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ng-los-wg-002",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "city": "Lagos",
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-br-001",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "nl-ams-ovpn-001",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-ovpn-002",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-ovpn-003",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-ovpn-004",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-ovpn-005",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-001",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-002",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-003",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-004",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-005",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-006",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-007",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-008",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-101",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-102",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-103",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-201",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-202",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nl-ams-wg-203",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-br-001",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": false
+  },
+  {
+    "id": "no-osl-ovpn-001",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-ovpn-002",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-ovpn-003",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-wg-001",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-wg-002",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-wg-003",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-wg-004",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-wg-005",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "no-osl-wg-006",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-wg-007",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-osl-wg-008",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-svg-br-001",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Stavanger",
+    "lat": 58.9699675,
+    "lon": 5.7318101,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": false
+  },
+  {
+    "id": "no-svg-ovpn-001",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Stavanger",
+    "lat": 58.9699675,
+    "lon": 5.7318101,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-svg-ovpn-002",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Stavanger",
+    "lat": 58.9699675,
+    "lon": 5.7318101,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-svg-wg-001",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Stavanger",
+    "lat": 58.9699675,
+    "lon": 5.7318101,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-svg-wg-002",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Stavanger",
+    "lat": 58.9699675,
+    "lon": 5.7318101,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-svg-wg-003",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Stavanger",
+    "lat": 58.9699675,
+    "lon": 5.7318101,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "no-svg-wg-004",
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Stavanger",
+    "lat": 58.9699675,
+    "lon": 5.7318101,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nz-akl-ovpn-301",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "city": "Auckland",
+    "lat": -36.852095,
+    "lon": 174.7631803,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "nz-akl-ovpn-302",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "city": "Auckland",
+    "lat": -36.852095,
+    "lon": 174.7631803,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "nz-akl-wg-301",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "city": "Auckland",
+    "lat": -36.852095,
+    "lon": 174.7631803,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "nz-akl-wg-302",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "city": "Auckland",
+    "lat": -36.852095,
+    "lon": 174.7631803,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pe-lim-wg-001",
+    "country": "Peru",
+    "countryCode": "PE",
+    "city": "Lima",
+    "lat": -12.0621065,
+    "lon": -77.0365256,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pe-lim-wg-002",
+    "country": "Peru",
+    "countryCode": "PE",
+    "city": "Lima",
+    "lat": -12.0621065,
+    "lon": -77.0365256,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ph-mnl-wg-001",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "city": "Manila",
+    "lat": 14.5904492,
+    "lon": 120.9803621,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ph-mnl-wg-002",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "city": "Manila",
+    "lat": 14.5904492,
+    "lon": 120.9803621,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pl-waw-ovpn-201",
+    "country": "Poland",
+    "countryCode": "PL",
+    "city": "Warsaw",
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "pl-waw-ovpn-202",
+    "country": "Poland",
+    "countryCode": "PL",
+    "city": "Warsaw",
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "pl-waw-wg-101",
+    "country": "Poland",
+    "countryCode": "PL",
+    "city": "Warsaw",
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pl-waw-wg-102",
+    "country": "Poland",
+    "countryCode": "PL",
+    "city": "Warsaw",
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pl-waw-wg-103",
+    "country": "Poland",
+    "countryCode": "PL",
+    "city": "Warsaw",
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pl-waw-wg-201",
+    "country": "Poland",
+    "countryCode": "PL",
+    "city": "Warsaw",
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pl-waw-wg-202",
+    "country": "Poland",
+    "countryCode": "PL",
+    "city": "Warsaw",
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pt-lis-wg-201",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "city": "Lisbon",
+    "lat": 38.7077507,
+    "lon": -9.1365919,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pt-lis-wg-202",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "city": "Lisbon",
+    "lat": 38.7077507,
+    "lon": -9.1365919,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pt-lis-wg-301",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "city": "Lisbon",
+    "lat": 38.7077507,
+    "lon": -9.1365919,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "pt-lis-wg-302",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "city": "Lisbon",
+    "lat": 38.7077507,
+    "lon": -9.1365919,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ro-buh-ovpn-001",
+    "country": "Romania",
+    "countryCode": "RO",
+    "city": "Bucharest",
+    "lat": 44.4361414,
+    "lon": 26.1027202,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ro-buh-ovpn-002",
+    "country": "Romania",
+    "countryCode": "RO",
+    "city": "Bucharest",
+    "lat": 44.4361414,
+    "lon": 26.1027202,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "ro-buh-wg-001",
+    "country": "Romania",
+    "countryCode": "RO",
+    "city": "Bucharest",
+    "lat": 44.4361414,
+    "lon": 26.1027202,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ro-buh-wg-002",
+    "country": "Romania",
+    "countryCode": "RO",
+    "city": "Bucharest",
+    "lat": 44.4361414,
+    "lon": 26.1027202,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "rs-beg-ovpn-101",
+    "country": "Serbia",
+    "countryCode": "RS",
+    "city": "Belgrade",
+    "lat": 44.8178131,
+    "lon": 20.4568974,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "rs-beg-ovpn-102",
+    "country": "Serbia",
+    "countryCode": "RS",
+    "city": "Belgrade",
+    "lat": 44.8178131,
+    "lon": 20.4568974,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "rs-beg-wg-101",
+    "country": "Serbia",
+    "countryCode": "RS",
+    "city": "Belgrade",
+    "lat": 44.8178131,
+    "lon": 20.4568974,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "rs-beg-wg-102",
+    "country": "Serbia",
+    "countryCode": "RS",
+    "city": "Belgrade",
+    "lat": 44.8178131,
+    "lon": 20.4568974,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-br-001",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "se-got-ovpn-001",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-ovpn-002",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-ovpn-003",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-wg-001",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-wg-002",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-wg-003",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-wg-004",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-wg-005",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-wg-006",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-wg-007",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-wg-008",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-got-wg-101",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Gothenburg",
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-br-001",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": false
+  },
+  {
+    "id": "se-mma-ovpn-001",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-002",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-013",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-014",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-015",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-016",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-017",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-018",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-019",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-020",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-021",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-022",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-ovpn-023",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "se-mma-ovpn-102",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-001",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-002",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-003",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-004",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-005",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-011",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-012",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-101",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-102",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-103",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-111",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-mma-wg-112",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "lat": 55.6052931,
+    "lon": 13.0001566,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-br-001",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "se-sto-ovpn-001",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-ovpn-002",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-ovpn-003",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-ovpn-004",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "se-sto-wg-001",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-002",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "se-sto-wg-003",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-004",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-005",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-006",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-007",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-008",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-009",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-010",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-011",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-012",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-013",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Mullvad",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-201",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-202",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-203",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-204",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-205",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-206",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "se-sto-wg-207",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-208",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "se-sto-wg-209",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "sg-sin-br-101",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "lat": 1.2899175,
+    "lon": 103.8519072,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": false
+  },
+  {
+    "id": "sg-sin-ovpn-101",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "lat": 1.2899175,
+    "lon": 103.8519072,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "sg-sin-ovpn-102",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "lat": 1.2899175,
+    "lon": 103.8519072,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "sg-sin-wg-001",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "lat": 1.2899175,
+    "lon": 103.8519072,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "sg-sin-wg-002",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "lat": 1.2899175,
+    "lon": 103.8519072,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "sg-sin-wg-003",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "lat": 1.2899175,
+    "lon": 103.8519072,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "sg-sin-wg-101",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "lat": 1.2899175,
+    "lon": 103.8519072,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "sg-sin-wg-102",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "lat": 1.2899175,
+    "lon": 103.8519072,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "si-lju-wg-001",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "city": "Ljubljana",
+    "lat": 46.0500268,
+    "lon": 14.5069289,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "si-lju-wg-002",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "city": "Ljubljana",
+    "lat": 46.0500268,
+    "lon": 14.5069289,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "sk-bts-wg-001",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "city": "Bratislava",
+    "lat": 48.1516988,
+    "lon": 17.1093063,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "sk-bts-wg-002",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "city": "Bratislava",
+    "lat": 48.1516988,
+    "lon": 17.1093063,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "th-bkk-wg-001",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "city": "Bangkok",
+    "lat": 13.7524938,
+    "lon": 100.4935089,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "th-bkk-wg-002",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "city": "Bangkok",
+    "lat": 13.7524938,
+    "lon": 100.4935089,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "tr-ist-wg-001",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "city": "Istanbul",
+    "lat": 41.006381,
+    "lon": 28.9758715,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "tr-ist-wg-002",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "city": "Istanbul",
+    "lat": 41.006381,
+    "lon": 28.9758715,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ua-iev-wg-001",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "city": "Kyiv",
+    "lat": 50.4500336,
+    "lon": 30.5241361,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "ua-iev-wg-002",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "city": "Kyiv",
+    "lat": 50.4500336,
+    "lon": 30.5241361,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-ovpn-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-ovpn-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-301",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-302",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-303",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-304",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-305",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-306",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-401",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-402",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-403",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-404",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-405",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-406",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-407",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-atl-wg-408",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-bos-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Boston, MA",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-bos-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Boston, MA",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-bos-wg-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Boston, MA",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-bos-wg-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Boston, MA",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-007",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "us-chi-wg-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-203",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-301",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-302",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-303",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-304",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-305",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-306",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-307",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-chi-wg-308",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-ovpn-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-ovpn-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-003",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-401",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-402",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-403",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-502",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-503",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-504",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-505",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-506",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-507",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-601",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-602",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-603",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-dal-wg-604",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-ovpn-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "us-den-ovpn-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": false
+  },
+  {
+    "id": "us-den-wg-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-103",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-203",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-204",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-205",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-206",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-207",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-den-wg-208",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-det-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Detroit, MI",
+    "lat": 42.3315509,
+    "lon": -83.0466403,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-det-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Detroit, MI",
+    "lat": 42.3315509,
+    "lon": -83.0466403,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-hou-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Houston, TX",
+    "lat": 29.7589382,
+    "lon": -95.3676974,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-hou-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Houston, TX",
+    "lat": 29.7589382,
+    "lon": -95.3676974,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-hou-wg-003",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Houston, TX",
+    "lat": 29.7589382,
+    "lon": -95.3676974,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-hou-wg-004",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Houston, TX",
+    "lat": 29.7589382,
+    "lon": -95.3676974,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-br-401",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": false
+  },
+  {
+    "id": "us-lax-ovpn-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-ovpn-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-ovpn-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-ovpn-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-103",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-203",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-402",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-403",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-404",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-405",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-406",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-407",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-408",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-409",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-601",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-602",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-603",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-604",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-605",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-606",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-607",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-608",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-701",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-702",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-703",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-lax-wg-704",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "us-mia-br-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Miami, FL",
+    "lat": 25.7741728,
+    "lon": -80.19362,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "us-mia-ovpn-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Miami, FL",
+    "lat": 25.7741728,
+    "lon": -80.19362,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mia-ovpn-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Miami, FL",
+    "lat": 25.7741728,
+    "lon": -80.19362,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mia-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Miami, FL",
+    "lat": 25.7741728,
+    "lon": -80.19362,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mia-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Miami, FL",
+    "lat": 25.7741728,
+    "lon": -80.19362,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mia-wg-003",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Miami, FL",
+    "lat": 25.7741728,
+    "lon": -80.19362,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mia-wg-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Miami, FL",
+    "lat": 25.7741728,
+    "lon": -80.19362,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mia-wg-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Miami, FL",
+    "lat": 25.7741728,
+    "lon": -80.19362,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mia-wg-103",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Miami, FL",
+    "lat": 25.7741728,
+    "lon": -80.19362,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mkc-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Kansas City, MO",
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mkc-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Kansas City, MO",
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mkc-wg-003",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Kansas City, MO",
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mkc-wg-004",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Kansas City, MO",
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mkc-wg-005",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Kansas City, MO",
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mkc-wg-006",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Kansas City, MO",
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mkc-wg-007",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Kansas City, MO",
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-mkc-wg-008",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Kansas City, MO",
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-br-501",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "us-nyc-br-601",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": true
+  },
+  {
+    "id": "us-nyc-ovpn-501",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-ovpn-502",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-ovpn-503",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-ovpn-601",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-ovpn-602",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-ovpn-603",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-301",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-302",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-303",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-401",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-402",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-403",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-404",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-405",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-406",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-501",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-502",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-503",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-504",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-505",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-506",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-601",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-602",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-603",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-604",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-605",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-606",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-701",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-702",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-703",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-801",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-802",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-803",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-804",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-805",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-806",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-807",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-nyc-wg-808",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-ovpn-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-ovpn-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-103",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-203",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-204",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-205",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-206",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-207",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-phx-wg-208",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-ovpn-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-ovpn-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-ovpn-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-ovpn-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-003",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-004",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-103",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-203",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-qas-wg-204",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Ashburn, VA",
+    "lat": 39.029784,
+    "lon": -77.4744148,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-rag-wg-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Raleigh, NC",
+    "lat": 35.7803977,
+    "lon": -78.6390989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-rag-wg-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Raleigh, NC",
+    "lat": 35.7803977,
+    "lon": -78.6390989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-rag-wg-203",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Raleigh, NC",
+    "lat": 35.7803977,
+    "lon": -78.6390989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-rag-wg-204",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Raleigh, NC",
+    "lat": 35.7803977,
+    "lon": -78.6390989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-rag-wg-205",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Raleigh, NC",
+    "lat": 35.7803977,
+    "lon": -78.6390989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-rag-wg-206",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Raleigh, NC",
+    "lat": 35.7803977,
+    "lon": -78.6390989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-rag-wg-207",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Raleigh, NC",
+    "lat": 35.7803977,
+    "lon": -78.6390989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-rag-wg-208",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Raleigh, NC",
+    "lat": 35.7803977,
+    "lon": -78.6390989,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "us-sea-ovpn-101",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-ovpn-102",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-003",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-401",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-402",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-403",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-404",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-405",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-406",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-407",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sea-wg-408",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-ovpn-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-ovpn-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "us-sjc-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "us-sjc-wg-003",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "us-sjc-wg-302",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-303",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-401",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-402",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-501",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-502",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-503",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-504",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-505",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-506",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-507",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-sjc-wg-508",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "San Jose, CA",
+    "lat": 37.3361663,
+    "lon": -121.890591,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-br-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [],
+    "active": false
+  },
+  {
+    "id": "us-slc-ovpn-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-ovpn-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "OpenVPN"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-203",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-204",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-301",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": false
+  },
+  {
+    "id": "us-slc-wg-302",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-303",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-304",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-305",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-306",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-307",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-slc-wg-308",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Salt Lake City, UT",
+    "lat": 40.7596198,
+    "lon": -111.886797,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-txc-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "McAllen, TX",
+    "lat": 26.204114,
+    "lon": -98.2300605,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-txc-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "McAllen, TX",
+    "lat": 26.204114,
+    "lon": -98.2300605,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-uyk-wg-201",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Secaucus, NJ",
+    "lat": 40.7899291,
+    "lon": -74.0566735,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-uyk-wg-202",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Secaucus, NJ",
+    "lat": 40.7899291,
+    "lon": -74.0566735,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-was-wg-001",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Washington DC",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "us-was-wg-002",
+    "country": "USA",
+    "countryCode": "US",
+    "city": "Washington DC",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "za-jnb-wg-001",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "city": "Johannesburg",
+    "lat": -26.205,
+    "lon": 28.049722,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  },
+  {
+    "id": "za-jnb-wg-002",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "city": "Johannesburg",
+    "lat": -26.205,
+    "lon": 28.049722,
+    "ownership": "Rented",
+    "protocols": [
+      "WireGuard"
+    ],
+    "active": true
+  }
+]
