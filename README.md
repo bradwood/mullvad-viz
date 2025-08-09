@@ -116,12 +116,8 @@ Example:
 
 ## Screenshots
 
-(Place screenshots in `public/screenshots/`)
-
 Map view (example):  
-![Map view](public/screenshots/map.png)
-
-> Note: I have added the README entry and placeholder path above. Please add the PNG you captured at `public/screenshots/map.png` and commit it — the image will appear inline in the README.
+![Map view](docs/images/screenshot.png)
 
 ---
 
