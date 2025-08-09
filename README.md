@@ -7,7 +7,7 @@ This repository contains a tiny Express backend that serves static frontend asse
 ## Prerequisites
 
 - Node 18+ (for built-in fetch support) or a compatible environment.
-- No Mullvad CLI is required anymore — the ingestion script fetches relays directly from the public Mullvad relays API.
+- No Mullvad CLI is required — the ingestion script fetches relays directly from the public Mullvad relays API.
 
 ---
 
@@ -31,16 +31,19 @@ This repository contains a tiny Express backend that serves static frontend asse
 
 ## What is included
 
-- server.js — Express server. Serves `public/` statically and exposes `/api/relays` which returns the JSON found at `data/relays.json`.
+- server.js — Express server. Serves `public/` statically and exposes `/api/relays` which returns the JSON found at `data/relays.json`. It also exposes a small on-demand geocode endpoint (`/api/geocode?city=...`) for ad-hoc lookups.
 - public/
   - index.html — main UI (Leaflet + Chart.js).
   - app.js — frontend logic: fetches `/api/relays`, renders markers and charts, provides hash-based navigation.
+  - styles.css — simple styles for the UI.
 - data/
   - relays.json — canonical relay list consumed by the frontend (cached by the ingestion tool).
+  - mullvad_api_raw.json — full raw payload fetched from Mullvad's public API (cached).
   - city-coordinates.json — supplemental map of city codes / names -> lat/lon used by ingestion tooling.
   - countries.json — optional country code → country name map used when resolving names.
 - tools/
-  - fetch-relays.js — ingestion script that fetches the public Mullvad relays API (https://api.mullvad.net/www/relays/all/), normalizes entries into the canonical relay format, resolves coordinates using `data/city-coordinates.json` and `data/countries.json`, and writes `data/relays.json` (and `tools/data/relays.json`) as a cached copy.
+  - fetch-relays.js — ingestion script that fetches the Mullvad relays API (https://api.mullvad.net/www/relays/all/), normalizes entries into the canonical relay format, resolves coordinates using `data/city-coordinates.json` and `data/countries.json`, and writes `data/relays.json` (and `tools/data/relays.json`) as a cached copy.
+  - update-city-coords.js — queries Nominatim (OpenStreetMap) to populate or refresh `data/city-coordinates.json`. The script is rate-limited (3s between requests) and tries a few candidate queries for ambiguous city names.
   - add-city-coordinate.js — helper script to add a predefined Tirana coordinate entry into `data/city-coordinates.json`.
   - data/ — example tool data (note: some older CLI-specific diagnostic tools have been removed).
 
@@ -52,16 +55,23 @@ This repository contains a tiny Express backend that serves static frontend asse
   - npm run ingest
   - This runs `tools/fetch-relays.js`, which:
     1. Fetches the public Mullvad relays API at https://api.mullvad.net/www/relays/all/
-    2. Maps the API's fields to the project's canonical relay schema:
-       - id, country, countryCode, city, lat, lon, ownership, protocols
-    3. Resolves lat/lon using:
+    2. Writes a full raw cache (data/mullvad_api_raw.json) so you have the full API payload locally.
+    3. Maps the API's fields to the project's canonical relay schema:
+       - id, country, countryCode, city, lat, lon, ownership, protocols, active
+    4. Resolves lat/lon using supplemental lookups:
        - data/city-coordinates.json (tools/data fallback)
        - case-insensitive city name lookup
        - friendly cityCode -> cityName fallback
        - country centroid fallback
-       - If none match, lat and lon are set to null (the frontend will skip markers with null coords).
-    4. Writes the sanitized dataset to `tools/data/relays.json` and `data/relays.json` for caching.
-- The ingestion no longer invokes or requires the Mullvad CLI.
+       - If none match, lat and lon are set to null and the frontend skips plotting that server.
+    5. Writes the sanitized dataset to `tools/data/relays.json` and `data/relays.json` for caching.
+
+- Refresh or improve city coordinates:
+  - Populate/refresh city coordinates with:
+    - npm run update-city-coords  (this runs tools/update-city-coords.js via an npm script)
+    - Or run the tool directly: node tools/update-city-coords.js --all
+  - Note: Nominatim (OpenStreetMap) is rate-limited. The updater enforces a 3s delay and tries several candidate queries for each city (e.g., stripping state tokens) to improve matches.
+  - After updating coordinates, run npm run ingest to regenerate `data/relays.json` with the improved coords.
 
 ---
 
@@ -71,6 +81,7 @@ This repository contains a tiny Express backend that serves static frontend asse
 - npm run dev — start with nodemon (if available)
 - npm run ingest — fetch relays from the Mullvad public API and cache to `data/relays.json`
 - npm run add-city — run the helper that adds a Tirana (tia) coordinate to the city coordinates file
+- npm run update-city-coords — run the bulk Nominatim updater (tools/update-city-coords.js)
 
 ---
 
@@ -86,6 +97,7 @@ Each relay entry is a JSON object with these fields:
 - lon (number|null) — longitude (decimal degrees) or null when unresolved
 - ownership (string) — `"Mullvad"` or `"Rented"` (defaults to `"Mullvad"`)
 - protocols (array of strings) — e.g., `["OpenVPN"]` or `["WireGuard"]`
+- active (boolean) — whether the Mullvad API reports the relay as active/online (if available)
 
 Example:
 {
@@ -96,33 +108,20 @@ Example:
   "lat": 51.51412,
   "lon": -0.09369,
   "ownership": "Mullvad",
-  "protocols": ["OpenVPN"]
+  "protocols": ["OpenVPN"],
+  "active": true
 }
 
-Note: Coordinates may be null when unable to resolve; the frontend skips null coordinates to avoid plotting points at (0,0).
-
 ---
 
-## Tools and ingestion
+## Screenshots
 
-- tools/fetch-relays.js
-  - Fetches the Mullvad relays API and writes sanitized JSON to `tools/data/relays.json` and `data/relays.json`.
-  - Resolves coordinates using local supplemental files and fallbacks described above.
-  - Sets lat/lon to null when unresolved (frontend should skip markers with null coords).
+(Place screenshots in `public/screenshots/`)
 
-- tools/add-city-coordinate.js
-  - Adds a Tirana (`tia`) coordinate to `data/city-coordinates.json`. Intended as a convenience helper.
+Map view (example):  
+![Map view](public/screenshots/map.png)
 
----
-
-## Known issues & recommendations
-
-- Null coordinates:
-  - Entries with lat/lon set to `null` are treated as unresolved. The frontend will skip plotting these markers.
-  - Recommendation: Add or improve entries in `data/city-coordinates.json` for better city-level placement.
-
-- Tests & validation:
-  - Consider adding a validation script (e.g., `tools/validate-relays.js`) to assert the shape and types in `data/relays.json`.
+> Note: I have added the README entry and placeholder path above. Please add the PNG you captured at `public/screenshots/map.png` and commit it — the image will appear inline in the README.
 
 ---
 
@@ -134,6 +133,10 @@ Note: Coordinates may be null when unable to resolve; the frontend skips null co
 - If `npm run ingest` fails:
   - Ensure your environment can perform outbound HTTPS requests (the ingestion script fetches the public Mullvad API).
   - Enable `INGEST_DEBUG=1` to get verbose logs from the ingestion script.
+- If city lookup misses (e.g., "San Jose, CA"), run:
+  - node tools/update-city-coords.js --city "San Jose, CA"
+  - or run the bulk updater with: node tools/update-city-coords.js --all
+  - After updating coordinates re-run: npm run ingest
 
 ---
 
